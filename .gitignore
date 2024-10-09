@@ -181,3 +181,7 @@ Backup of *.doc*
 
 # Visio autosave temporary files
 *.~vsd*
+
+.gitignore
+uwm_analiza_duzych_zbiorow/
+uwm_analiza_duzych_zbiorow
