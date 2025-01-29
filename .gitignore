@@ -120,6 +120,11 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
+*.csv
+*.parquet
+*.zip
+
+uwm_analiza_duzych_zbiorow/
 
 # Environments
 .env
